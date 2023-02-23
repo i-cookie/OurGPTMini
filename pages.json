@@ -1,0 +1,44 @@
+{
+	"pages": [{
+		"path": "pages/home/index",
+		"style": {
+			"navigationBarTitleText": "OurGPT"
+		}
+	}],
+	// "tabBar": {
+	// 	"color": "#aa55ff",
+	// 	"selectedColor": "#544867",
+	// 	"backgroundColor": "#ffffff",
+	// 	"list": [{
+	// 		"pagePath": "pages/home/index",
+	// 		"text": "首页",
+	// 		"iconPath": "static/Tabbar/homeFalse.png",
+	// 		"selectedIconPath": "static/Tabbar/homeTrue.png"
+	// 	}, {
+	// 		"pagePath": "pages/LGUlife/index",
+	// 		"text": "龙大生活",
+	// 		"iconPath": "static/Tabbar/longFalse.png",
+	// 		"selectedIconPath": "static/Tabbar/longTrue.png"
+	// 	}, {
+	// 		"pagePath": "pages/pinpin/index",
+	// 		"text": "拼拼",
+	// 		"iconPath": "static/Tabbar/pingFalse.png",
+	// 		"selectedIconPath": "static/Tabbar/pingTrue.png"
+	// 	}, {
+	// 		"pagePath": "pages/usrInfo/index",
+	// 		"text": "我的",
+	// 		"iconPath": "static/Tabbar/userFalse.png",
+	// 		"selectedIconPath": "static/Tabbar/userTrue.png"
+	// 	}]
+		
+	// },
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	}
+}
